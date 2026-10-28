@@ -149,6 +149,6 @@
 
 ---
 
-*Free Fire · 更新于 2026-10-27 · 基于 MIT 许可证共享*
+*Free Fire · 更新于 2026-10-28 · 基于 MIT 许可证共享*
 
-<!-- last reviewed 2026-10-27 -->
+<!-- last reviewed 2026-10-28 -->
